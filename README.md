@@ -1,5 +1,5 @@
 
-¡Hola a todos! Soy un estudiante de la Universidad Politecnica de Catalunya (UPC). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades.
+¡Hola a todos!, Mi nombre es Jordi, soy un estudiante de la Universidad Politecnica de Catalunya (UPC), concretamente de la Facultad de ingenieria informatica de Barcelona (FIB). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades.
 
 Acerca de mí
 📚 Actualmente estoy estudiando Ingeniería de Software en la FIB (UPC).
