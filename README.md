@@ -12,6 +12,7 @@ Mis habilidades
 
 Contacto
 Si desea ponerse en contacto conmigo, no dude en enviarme un correo electrónico a mi dirección: jordi.estany.pouplana@gmail.com
+
 También puede seguirme en GitHub y estar al tanto de mis proyectos y contribuciones a la comunidad.
 
 ¡Gracias por visitar mi perfil!
